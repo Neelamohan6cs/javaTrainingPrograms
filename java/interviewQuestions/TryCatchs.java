@@ -18,3 +18,5 @@ class TryCatchs {
 }
 
 
+//and strickly follow the  left side frontend and center aws and clowd and right side backend , this must follow this struct in pc view and mobile view , give animation above like data travel frontedn to backnd , atravtive
+
